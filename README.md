@@ -90,7 +90,7 @@ InvestEdge/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/InvestEdge.git
+git clone https://github.com/P-JHA/InvestEdge.git
 cd InvestEdge
 ```
 
@@ -185,7 +185,8 @@ PORT=5000
 
 **Prabhakar Jha**
 
-GitHub: https://github.com/P-JHA
+GitHub: https://github.com/P-JHA  
+LinkedIn: https://www.linkedin.com/in/prabhakarjha-it/
 
 ---
 
